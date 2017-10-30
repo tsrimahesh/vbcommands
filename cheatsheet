@@ -1,3 +1,4 @@
 VBoxManage list runningvms
+VBoxManage list vms
 VBoxManage controlvm vm|uuid poweroff
 VBoxManage unregistervm vm|uuid --delete
